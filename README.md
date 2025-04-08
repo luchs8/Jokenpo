@@ -14,5 +14,5 @@
 
 <h3>Formatos Desktop e Mobile</h3>
 
-<img src="https://github.com/luchs8/Wide/blob/main/img/Desktop.png">
-<img src="https://github.com/luchs8/Wide/blob/main/img/WideMobile.png">
+<img src="https://github.com/luchs8/Jokenpo/blob/main/assets/JokenpoDesktop.png">
+<img src="https://github.com/luchs8/Jokenpo/blob/main/assets/JokenpoMobile.png">
